@@ -22,3 +22,9 @@ appsettings.Local.json
 *.Secret.json
 
 *.zip
+
+.vs/
+bin/
+obj/
+*.zip
+
