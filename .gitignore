@@ -1,0 +1,24 @@
+﻿# VS / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+[Bb]uild/
+artifacts/
+
+# Logs & misc
+*.log
+*.DS_Store
+Thumbs.db
+
+# Front-end (if any)
+node_modules/
+dist/
+
+# Local settings (keep secrets out of git)
+appsettings.Development.json
+appsettings.Local.json
+*.Secret.json
+
+*.zip
